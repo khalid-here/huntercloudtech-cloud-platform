@@ -95,20 +95,6 @@ All screenshots are stored in:
 ```
 docs/Screenshots/
 ```
-
-### Preview
-
-| Component    | Screenshot                                   |
-| ------------ | -------------------------------------------- |
-| VPC          | docs/Screenshots/VPC.png
-| ALB          | ![](docs/Screenshots/ALB.png)                |
-| CloudFront   | ![](docs/Screenshots/Route53-Cloudfront.png) |
-| Host Routing | ![](docs/Screenshots/HostBasedRouting.png)   |
-| Auto Scaling | ![](docs/Screenshots/ASG.png)                |
-| CloudWatch   | ![](docs/Screenshots/CloudWatch-Alarm.png)   |
-| S3 Logs      | ![](docs/Screenshots/S3.png)                 |
-| Flow Diagram | ![](docs/Screenshots/Flow.png)               |
-
 ---
 
 ## 🎥 Demo Videos
