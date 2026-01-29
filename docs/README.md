@@ -100,7 +100,7 @@ docs/Screenshots/
 
 | Component    | Screenshot                                   |
 | ------------ | -------------------------------------------- |
-| VPC          | ![](docs/Screenshots/VPC.png)                |
+| VPC          | docs/Screenshots/VPC.png
 | ALB          | ![](docs/Screenshots/ALB.png)                |
 | CloudFront   | ![](docs/Screenshots/Route53-Cloudfront.png) |
 | Host Routing | ![](docs/Screenshots/HostBasedRouting.png)   |
