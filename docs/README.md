@@ -224,7 +224,6 @@ Give it a **star ⭐** — this helps showcase real-world cloud engineering skil
 
 ---
 
-🔥 *Built to look like a startup-grade production cloud system, not a college project.*
 
 
 
